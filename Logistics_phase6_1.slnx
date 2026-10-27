@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Api/Api.csproj" />
+  <Project Path="Common/Common.csproj" />
+  <Project Path="Core/Core.csproj" />
+  <Project Path="DataAccess/DataAccess.csproj" Id="b3ea7315-04ff-495a-8b85-4f06c29cbbb6" />
+  <Project Path="Test/Test.csproj" Id="7da2a568-a0c5-4666-834e-03c547d24ee0" />
+</Solution>
